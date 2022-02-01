@@ -2,8 +2,11 @@
 A Node.js script that removes local branches that don't exist on remote anymore.
 
 ## Installation
-The idea is to register this script as a global npm module:
+Register the script as a global module:
+
 `npm i -g ./`
+
+(make sure you're in this repository's root folder)
 
 ## Usage
 Execute `git-cleanup`, that's it.
